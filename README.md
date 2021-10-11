@@ -1,3 +1,21 @@
+# React JS Meetups Application
+
+## Concepts Content
+
+- Components, Props and Props Children
+- Component CSS Modules
+- Handling Events
+- Routing, Links and Navigation
+- React Forms, User input and submission
+- HTTP requests with React & fetch API
+- UseEffect hook
+- React Context
+
+## Links
+- [Youtube](https://www.youtube.com/watch?v=Dorf8i6lCuk&list=PLJ0Bg9Ui7t-SeXfAW5yxXfkkjR_flYc9z&index=3)
+- [Github](https://github.com/academind/react-complete-guide-code/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
